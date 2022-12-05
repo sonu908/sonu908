@@ -1,9 +1,11 @@
 <h1 align="center">Hello world 👋, I'm Sonu S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+ 
+- 🤝 ME(a)RN STACK intern
 
 - 🌱 I’m currently learning **Full Stack Developing**
 
-- 📝 Check out my LinkedIn profile [https://www.linkedin.com/in/sonu-s-97b221221](https://www.linkedin.com/in/sonu-s-97b221221)
+- 📝 Check out my LinkedIn profile [sonu-s](https://www.linkedin.com/in/sonu-s-97b221221)
 
 - 📫 How to reach me **sonusureshofficial8@gmail.com**
 
