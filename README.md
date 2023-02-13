@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 📝 Check out my LinkedIn profile [sonu-s](https://www.linkedin.com/in/sonu-s-97b221221)
+- 📝 Check out my LinkedIn profile [sonu-s](https://www.linkedin.com/in/sonu908)
 
 - 📫 How to reach me **sonusureshofficial8@gmail.com**
 
