@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://spiffy-melba-0de672.netlify.app/#intro">My Portfolio</a>
 
-- 💬 Ask me about **ANGULAR**
-
 - 📫 How to reach me **sonusureshofficial8@gmail.com**
 
 ## 🌐 Socials:
