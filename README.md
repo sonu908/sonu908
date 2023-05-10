@@ -1,5 +1,6 @@
 <em>
-<h1 align="center">Hi 👋, I'm Sonu S</h1>
+        <a href="https://www.linkedin.com/in/sonu908/">
+<h1 align="center">Hey there<img height="30px" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif">  , I'm Sonu </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 ##
@@ -12,7 +13,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="margin-left: 10px;"
             src="https://github-profile-trophy.vercel.app/?username=sonu908" alt="sonu908" /></a> </p>
-
+<a>
 - 🌱 I’m currently learning **ME(A)RN stack Development**
 
 - 👨‍💻 All of my projects are available at <a href="https://spiffy-melba-0de672.netlify.app/#intro">My Portfolio</a>
