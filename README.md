@@ -1,5 +1,5 @@
 <em>
-        <a href="https://www.linkedin.com/in/sonu908/">
+        <a href="#">
 <h1 align="center">Hey there<img height="30px" src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif">  , I'm Sonu </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
