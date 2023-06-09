@@ -14,9 +14,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="margin-left: 10px;"
             src="https://github-profile-trophy.vercel.app/?username=sonu908" alt="sonu908" /></a> </p>
 <a>
-- 🌱 I’m a Web Developer
-
-- 👨‍💻 All of my projects are available at <a href="https://spiffy-melba-0de672.netlify.app/#intro">My Portfolio</a>
 
 - 📫 How to reach me **sonusureshofficial8@gmail.com**
 
